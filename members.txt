@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 singh ne
 w
 fdfd
 fdfd
 
+=======
+singh new
+test
+test2
+>>>>>>> e8ffa71597d871b8373468ab254e12e2379799cf
